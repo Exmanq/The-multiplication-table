@@ -8,5 +8,5 @@ for i in range(1,11):
 # Display a header to let the user know that this is a multiplication table for the entered number.
 # Create a loop that iterates from 1 to 11.
 # Within the loop, establish a variable to store the multiplication result and calculate this result.
-# Present the result in an aesthetically pleasing format to create a well-structured multiplication table.
+# Present the result in an aesthetically pleasing format to create a well-structured multiplication table!
 # Created by Frai30100
